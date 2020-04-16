@@ -1,0 +1,12 @@
+<?php
+// $Id: greenwichvillage.install,v 1.22 2014/04/01 19:55:57 dries Exp $
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ */
+function greenwichvillage_install() {
+
+
+}
